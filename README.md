@@ -92,8 +92,8 @@ for (char, frequency) in freq:
 
 
 ## Output:
+![image](https://github.com/user-attachments/assets/9b2706bf-8329-487a-9831-4cf4350bec30)
 
-![image](https://github.com/user-attachments/assets/4acc3ae5-112d-4221-97e4-67f010c8b1c1)
 
 
 
